@@ -8,7 +8,7 @@ public class LiuyuController {
 
 	@GetMapping("/hello")
 	public String sayHello() {
-		return "Hello world!";
+		return "Hello world!bbb";
 	}
 
 }
